@@ -1,29 +1,11 @@
-## reveal.js ![NPM version](https://img.shields.io/npm/v/reveal.js.svg?style=flat)
+* 浏览器基本调试方法
+* 移动设备的调试
+	
+	* 浏览器模拟
+	* charles代理
+	* 真机远程调试
 
-The HTML Presentation Framework
 
-### Installation
-```bash
-$ npm install reveal.js
-```
-
-### Example
-```js
-var reveal.js = require('reveal.js');
-```
-
-### API
-check this file: `js/reveal.js`
-
-### Contributing
-- Fork this Repo first
-- Clone your Repo
-- Install dependencies by `$ npm install`
-- Checkout a feature branch
-- Feel free to add your features
-- Make sure your features are fully tested
-- Publish your local branch, Open a pull request
-- Enjoy hacking <3
 
 ### MIT license
 Copyright (c) 2016 [object Object]
