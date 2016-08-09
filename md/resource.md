@@ -1,4 +1,4 @@
-###五、Resources面板
+###五、Resources面板 (最新更名为application面板)
 
 用于查看当前页面所请求的资源文件，如 HTML，CSS 样式文件等。
 
